@@ -1,0 +1,11 @@
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Negocio\obj\Debug\Negocio.pdb

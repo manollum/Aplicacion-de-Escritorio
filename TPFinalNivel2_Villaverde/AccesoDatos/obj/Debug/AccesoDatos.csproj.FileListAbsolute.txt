@@ -1,0 +1,9 @@
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\obj\Debug\AccesoDa.B2719C34.Up2Date
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\AccesoDatos\obj\Debug\AccesoDatos.pdb

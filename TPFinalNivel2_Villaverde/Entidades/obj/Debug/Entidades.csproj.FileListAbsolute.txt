@@ -1,0 +1,6 @@
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Entidades\bin\Debug\Entidades.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Entidades\obj\Debug\Entidades.dll
+C:\Users\Manu\source\repos\TPFinalNivel2_Villaverde\Entidades\obj\Debug\Entidades.pdb
